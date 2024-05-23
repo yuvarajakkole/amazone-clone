@@ -1,0 +1,80 @@
+body{
+    background-color: #2e2e2d;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .main-block{
+    border: 1px solid #b0aaa7;
+    box-shadow: 0 0 3px white;
+    border-radius: 10px;
+    height: 32rem;
+    width: 26rem;
+    background-color: #403e3d;
+    
+  }
+  
+  .login{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: ghostwhite;
+    margin-top: 4.5rem;
+  }
+  
+  .input-sec{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 3rem;
+    flex-wrap: wrap;
+  }
+  
+  .name{
+    height: 40px;
+    width: 90%;
+    border-radius: 15px;
+    margin-top: 1.5rem;
+    
+  }
+  a{
+    margin-left: 1.2rem;
+    text-decoration: none;
+  }
+  
+  /* input:hover{
+    margin-top: -2px;
+    margin-right: 1px;
+  } */
+  
+  button{
+    height: 50px;
+    width: 50%;
+    background-color: #4f82e0;
+    font-size: 20px;
+    border-radius: 10px;
+  }
+  .log-button{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 15px;
+  }
+  .creat-block{
+    border-top: 1px dotted white;
+    margin-top: 5px;
+  }
+  
+  .creat-new a{
+    color: #3ad657;
+    font-size: 1.25rem;
+    text-decoration: none;
+  }
+  
+  .creat-new{
+    margin-top: 15px;
+  }
